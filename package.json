@@ -1,5 +1,6 @@
 {
-  "name": "10todo",
+  "name": "Goal Grid",
+  "author":"Priyank Aman",
   "private": true,
   "version": "0.0.0",
   "type": "module",
